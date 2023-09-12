@@ -3,7 +3,7 @@
     <name>paragonfaktura</name>
     <displayName><![CDATA[Paragon Faktura 1.7]]></displayName>
     <version><![CDATA[1.0.1]]></version>
-    <description><![CDATA[Select sale document on checkout]]></description>
+    <description><![CDATA[Wybierz typ dokumentu w trakcie zakup&oacute;w]]></description>
     <author><![CDATA[Cypis.net]]></author>
     <tab><![CDATA[billing_invoicing]]></tab>
     <is_configurable>1</is_configurable>

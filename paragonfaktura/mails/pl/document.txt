@@ -1,0 +1,12 @@
+{shop_url}
+
+Hello {firstname} {lastname},
+
+Order ID {order_name} - Document type
+
+{info}.
+
+
+
+[{shop_name}]({shop_url})
+
